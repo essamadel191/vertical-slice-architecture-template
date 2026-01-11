@@ -4,6 +4,7 @@ global using MediatR;
 global using Carter;
 global using FluentValidation;
 global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
 global using Microsoft.AspNetCore.Diagnostics;
 global using Microsoft.AspNetCore.Mvc;
 global using HealthChecks.UI.Client;
